@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Society"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "b5f8b1ba-cd4d-4e95-8db6-462e87fe92c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0d583b22-bc15-43f0-a3ef-49e796c13df5",
+    "website": "fans-and-fan-culture"
+  },
+  "course_title": "Fans and Fan Cultures",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This subject examines media audiences\u2014specifically, fans\u2014and the subcultures that evolve around them. Explores practices and products of fan culture, i.e., clubs, fiction, activism, etc. Readings and assignments place these practices and products within the context of various disciplines. This subject requires three short papers and presentations. Students taking the graduate version complete additional assignments.",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "CMS.821",
+  "primary_course_number": "CMS.621",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments with Examples",
+    "Readings",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "611edb3e-a596-4ba8-856b-42974cda4b30",
+  "site_short_id": "cms.621-fall-2024",
+  "site_url_path": "courses/cms-621-fans-and-fan-cultures-fall-2024"
+}
