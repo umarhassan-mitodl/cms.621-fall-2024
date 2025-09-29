@@ -18,7 +18,7 @@ None
 
 This subject examines media audiences—specifically, fans—and the subcultures that evolve around them. Explores practices and products of fan culture, i.e., clubs, fiction, activism, etc. Readings and assignments place these practices and products within the context of various disciplines. This subject requires three short papers and presentations. Students taking the graduate version complete additional assignments.
 
-A former student {{% resource_link "3a3d180e-f0fa-4613-ba14-239cc938b0ff" "blogged about her participation" %}} in this class and included video of her three oral presentations. Her narrative is useful if you are curious about the class. 
+A former student [blogged about her participation](https://mitadmissions.org/blogs/entry/cms-621-fans-fan-culture/) in this class and included video of her three oral presentations. Her narrative is useful if you are curious about the class. 
 
 ## Decorum
 

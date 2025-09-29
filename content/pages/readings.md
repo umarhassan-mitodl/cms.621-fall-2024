@@ -15,13 +15,13 @@ This class, we want to understand how definitions work and why a single authorit
 
 **Watch:**  
 
-- {{% resource_link "651b574c-a9d4-46c1-8b6e-5f48348c7fe2" "Part 1 of *Trekkies* (1997)" %}}. 
+- [Part 1 of *Trekkies* (1997)](https://www.dailymotion.com/video/xmah25). 
 
 **Read** ***one*** **of the following (the others are optional):**
 
 - Gregorio Fuschillo, “Fans, Fandoms, or Fanaticism?” *Journal of Consumer Culture, 20.3* (2020): 347–365.
 - Henry Jenkins, *Textual Poachers: Television Fans and Participatory Culture,* (1992), chapter 1.
-- {{% resource_link "abe3875b-39d8-47df-83d1-669276da0845" "*Fan Culture*" %}}. iResearchNet.
+- [*Fan Culture*](https://sociology.iresearchnet.com/sociology-of-culture/fan-culture). iResearchNet.
 
 ## Session 3: Uses & Gratification Theory: An Overview
 
@@ -30,7 +30,7 @@ The goal of this session is to provide a general theoretical framework and vocab
 **Read:**  
 
 - Thomas E. Ruggiero, “Uses and Gratifications Theory in the 21st Century.” *Communication & Society, 3.1,* 3–37. You can skip over the “criticisms” of U&G sections.
-- Stephen Reysen, Courtney Plante, and Daniel Chadborn. "{{% resource_link "f7651b74-5322-436c-9c38-03fe78586947" "Better together: Social connections mediate the relationship between fandom and well-being" %}}." *AASCIT Journal of Health* 4, no. 6 (2017): 68–73.
+- Stephen Reysen, Courtney Plante, and Daniel Chadborn. "[Better together: Social connections mediate the relationship between fandom and well-being](https://www.researchgate.net/publication/321671742_Better_Together_Social_Connections_Mediate_the_Relationship_Between_Fandom_and_Well-Being?enrichId=rgreq-92cb1b0699ff790d604d11ebf19c286f-XXX&enrichSource=Y292ZXJQYWdlOzMyMTY3MTc0MjtBUzo1NjkyNTcyMTg4NTQ5MTJAMTUxMjczMjkwNTYyMw%3D%3D&el=1_x_3&_esc=publicationCoverPdf)." *AASCIT Journal of Health* 4, no. 6 (2017): 68–73.
 
 ## Session 4: Oral & Archival History
 
@@ -38,21 +38,21 @@ This session will explore the differences between oral and archival histories an
 
 **Listen:**  
 
-- Listen to the first 15 minutes (at least) of the {{% resource_link "7e8a0039-cfd8-4fef-b13c-211b65084c7b" "interview with Franzeska Dickson" %}} about her early experience with watching *Star Trek* (original series) and fantasy literature.
+- Listen to the first 15 minutes (at least) of the [interview with Franzeska Dickson](https://digital.lib.uiowa.edu/node/32543) about her early experience with watching *Star Trek* (original series) and fantasy literature.
 
 **Read:** 
 
-- Theresa Machemer, “{{% resource_link "54859462-83c6-4ac5-a85f-fd08ba213a97" "How Pez evolved from an anti-smoking tool to a beloved collector’s item" %}}.” *Smithsonian Magazine,* Dec. 15, 2020.
+- Theresa Machemer, “[How Pez evolved from an anti-smoking tool to a beloved collector’s item](https://www.smithsonianmag.com/innovation/how-pez-evolved-from-anti-smoking-tool-to-beloved-collectors-item-180976545/).” *Smithsonian Magazine,* Dec. 15, 2020.
 
 **Watch**:
 
-- Optional: {{% resource_link "9d004407-dbc5-4976-bc61-e1bb54ba6bbc" "Sample Presentation" %}}    
+- Optional: [Sample Presentation](https://www.youtube.com/watch?v=zYJsTThsh88%C2%A0%20%20%C2%A0%C2%A0%C2%A0)    
 
 ## Session 5: Tips for Presentations & Discussion of *Bronies*
 
 The purpose of this class is to talk about best practices for student presentations of projects. We will also discuss the documentary about “Bronies.”
 
-- Watch: {{% resource_link "72b57e4a-bd00-4a59-a8c4-4255999ddfd5" "*Bronies: The Extremely Unexpected Adult Fans of My Little Pony.*" %}}
+- Watch: [*Bronies: The Extremely Unexpected Adult Fans of My Little Pony.*](https://youtu.be/9k4WjwNrits?feature=shared)
 
 ## Session 6: Oral History Reports 1
 
@@ -72,17 +72,17 @@ This class will describe expectations for paper #2 and explore the scholarly pra
 
 **Read:** 
 
-- Gabrielle Bellot, “{{% resource_link "7a16f19f-634d-436e-8850-f950d40b6d0f" "Hayao Miyazaki and the Art of Being a Woman" %}}.” *The Atlantic* (Oct. 19, 2016).
-- Caroline Powers, “{{% resource_link "88a4ab7e-bc1d-4675-a2c9-8baa90aa13dc" "Using *Avatar: The Last Airbender* to talk about my feelings" %}}.” *MIT Admissions*.
+- Gabrielle Bellot, “[Hayao Miyazaki and the Art of Being a Woman](https://www.theatlantic.com/entertainment/archive/2016/10/hayao-miyazaki-and-the-art-of-being-a-woman/503978/).” *The Atlantic* (Oct. 19, 2016).
+- Caroline Powers, “[Using *Avatar: The Last Airbender* to talk about my feelings](https://mitadmissions.org/blogs/entry/taking-a-step-back/).” *MIT Admissions*.
 - Leon Anderson and Bonnie Glass-Coffin, “I learn by Going: Autoethnographic Modes of Inquiry.” In S. H. Jones, T. E. Adams, & C. Ellis (Eds.), *Handbook of Autoethnography* (London: Routledge, 2013), chapter 1.
 
 **Watch:**
 
-- Optional, {{% resource_link "bf922ea1-67b9-4696-b4dc-b0cf0be73359" "Sample Presentation" %}}
+- Optional, [Sample Presentation](https://www.youtube.com/watch?v=PYiu_796CbI)
 
 ## Session 10: Peer Review Sessions
 
-We will spend this class session meeting in groups to provide each other with feedback on your first paper. You MUST bring a hard copy of your first paper to this meeting.  As a {{% resource_link "9aa6a7a9-52b3-4b59-a400-81d0a2b2748b" "Communications Intensive" %}} subject, it is mandatory that one paper be revised during the semester. This class session can provide you with peer feedback that you can draw on to revise paper #1.
+We will spend this class session meeting in groups to provide each other with feedback on your first paper. You MUST bring a hard copy of your first paper to this meeting.  As a [Communications Intensive](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects) subject, it is mandatory that one paper be revised during the semester. This class session can provide you with peer feedback that you can draw on to revise paper #1.
 
 ## Session 11: History Day
 
@@ -143,7 +143,7 @@ Group B will present their papers to the class.
 
 **Optional readings for the final sessions:**
 
-- CarrieLynn D. Reinhard. {{% resource_link "fe195964-79a6-46d3-9354-c3175b0098fd" "Disney+, the Fan Industrial Complex, and Star Wars." %}} *It's Just Playing with Research.*
+- CarrieLynn D. Reinhard. [Disney+, the Fan Industrial Complex, and Star Wars.](https://playingwithresearch.com/2021/02/20/disney-the-fan-industrial-complex-and-star-wars/) *It's Just Playing with Research.*
 - Rahma Sugihartati. "Youth fans of global popular culture: Between prosumer and free digital labourer." *Journal of Consumer Culture* 20, no. 3 (2020): 305–323.
 - John Fiske. "The Cultural Economy of Fandom," Chapter 2 in *The Adoring Audience*, pp. 30–49. Routledge, 2002.
 

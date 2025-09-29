@@ -7,8 +7,8 @@ file_size: 560469
 file_type: image/jpeg
 image_metadata:
   caption: 'Comic-Con is a well-known celebration of fan culture that takes place
-    yearly across the globe. (Courtesy of {{% resource_link "68d9c34e-9561-48b7-98ca-15498d52ed87"
-    "PatLoika" %}} on Flickr. License: CC BY.)'
+    yearly across the globe. (Courtesy of [PatLoika](https://www.flickr.com/photos/patloika/9369144489/)
+    on Flickr. License: CC BY.)'
   credit: 'Courtesy of PatLoika on Flickr. License: CC BY.'
   image-alt: Large group of people dressed as comic characters at Comic-Con 2013.
 learning_resource_types: []

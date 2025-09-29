@@ -19,7 +19,7 @@ Below, Prof. Edward Schiappa describes various aspects of how he teaches *CMS.62
 
 The class has always been driven by exploring case studies of fandoms and fan cultures, with the instructor framing the study of those case studies with larger media, sociological, and sometimes psychological theories. All of us encourage students to blend scholarly analysis with their personal fan experiences, fostering what Jenkins called the “aca-fan” identity—a scholar who is also an active fan. 
 
-Jenkins describes his recent formulation of the class at USC in this {{% resource_link "cbf44880-4b7d-4904-b7d4-e23dfa914c43" "blog post" %}}.
+Jenkins describes his recent formulation of the class at USC in this [blog post](http://henryjenkins.org/blog/2021/8/12/back-to-school-special-fandom-participatory-culture-and-web-20-2021-version).
 
 **OCW:** Two of the course sessions are set aside for students to give and receive peer feedback on their developing papers. How do you manage these sessions so that the feedback will be as substantial and meaningful as possible?
 
@@ -43,9 +43,9 @@ None
 
 ### Requirements Satisfied
 
-- CMS.621 can be applied toward a {{% resource_link "71b0f94c-3455-4ff0-ac69-f6cf3be8cacd" "major or minor in Comparative Media Studies" %}}, but is not required.
-- {{% resource_link "f9a13bbc-d0f0-4894-ae1a-976d0d5ea234" "General Institute Requirement (GIR): Humanities (HASS-H)" %}}
-- {{% resource_link "c149fffd-ca03-4829-b866-0e277410b039" "General Institute Requirement (GIR): Communication Intensive in the Major (CI-M)" %}}
+- CMS.621 can be applied toward a [major or minor in Comparative Media Studies](https://cmsw.mit.edu/academics/comparative-media-studies/undergraduate/), but is not required.
+- [General Institute Requirement (GIR): Humanities (HASS-H)](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)
+- [General Institute Requirement (GIR): Communication Intensive in the Major (CI-M)](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects)
 
 ### Offered
 
@@ -78,7 +78,7 @@ Various
 
 ### Typical Student Background
 
-Students in the course were not expected to have any background in media studies; most had not previously taken {{% resource_link "f6aa0035-124f-4c98-9d03-3d239b61d898" "*CMS.100 Introduction to Media Studies*" %}}. 
+Students in the course were not expected to have any background in media studies; most had not previously taken [*CMS.100 Introduction to Media Studies*](https://ocw.mit.edu/courses/cms-100-introduction-to-media-studies-fall-2014/). 
 
 ## How Student Time Was Spent
 
