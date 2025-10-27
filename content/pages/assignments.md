@@ -18,7 +18,7 @@ The primary source for this paper should be your interview subject (who can rema
 
 ### Example Presentation
 
-A [former student blogged](https://mitadmissions.org/blogs/entry/cms-621-fans-fan-culture/) about her work in this class. You can see an example of the [first presentation](https://www.youtube.com/watch?v=zYJsTThsh88).
+A {{% resource_link "df1a9bd9-ee2b-4ff5-bd3b-5ea57894859f" "former student blogged" %}} about her work in this class. You can see an example of the {{% resource_link "42842139-23a1-406b-9da8-16bec4ff7a3d" "first presentation" %}}.
 
 ## Paper/Presentation 2
 
@@ -28,7 +28,7 @@ The primary source for this paper is You!  Additional sources are necessary if 
 
 ### Example Presentation
 
-You can see an example of the [second presentation](https://www.youtube.com/watch?v=PYiu_796CbI).
+You can see an example of the {{% resource_link "f4ca62ca-3737-418a-a92f-1faa9239598f" "second presentation" %}}.
 
 ## Paper/Presentation 3
 
@@ -38,4 +38,4 @@ All papers will be presented to the class. You can but do not have to read your 
 
 ### Example Presentation
 
-You can see an example of the [third presentation](https://www.youtube.com/watch?v=gqNJAoepCg0).
+You can see an example of the {{% resource_link "a898d16d-c0f1-4421-bfad-b55aa9c395c0" "third presentation" %}}.
